@@ -11,3 +11,5 @@ README.md file.
 
 Answer as many questions as you like.
 Use any resource you like to help you answer the questions.
+Some questions may have more than one answer.
+Some questions involve editing files other than answer.txt.
