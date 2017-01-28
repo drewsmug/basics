@@ -1,8 +1,13 @@
-# basics
+# Basics
 Some Basic Development Tasks
 
 Each subdirectory has a different question about basic linux development in the
 README.md file.
-Clone this repo and add your answers to the answer.txt file in each subdirectory.
+
+## Steps
+
+ * Clone this repo and add your answers to the answer.txt file in each subdirectory.
+ * Commit your answers and send a pull request to submit them.
+
 Answer as many questions as you like.
 Use any resource you like to help you answer the questions.
