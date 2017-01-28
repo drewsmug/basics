@@ -1,0 +1,7 @@
+You are in a directory with several object files.
+
+	$ ls
+	fred.o wilma.o pebbles.o
+
+What two letter command will show you which file contains the missing symbol
+'dino'.
