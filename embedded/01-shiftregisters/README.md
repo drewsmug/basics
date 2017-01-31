@@ -1,6 +1,6 @@
 Explain how spi, i2c and serial are all at their core shift registers.
 
-How do these three lowlevel bit based protocols the same and different?
+How are these three lowlevel bit based protocols the same and different?
 
 Why does spi use chip selects but i2c and serial do not?
 
