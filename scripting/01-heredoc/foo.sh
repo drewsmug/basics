@@ -4,6 +4,8 @@ foo="bar"
 bar="foo"
 date=$(date)
 
-echo "foo is $foo"
-echo "bar is $bar"
-echo "date is $date"
+cat << EOF
+foo is $foo
+bar is $bar
+date is $date
+EOF

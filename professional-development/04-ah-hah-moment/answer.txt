@@ -1,1 +1,7 @@
-Put your answer here.
+>> Tell about a recent ah-hah moment at work.
+>> It should be a time when you came to realize something for the first time.
+
+I recently learned that I have the ability to not only implement features that are handed
+down to me but that I have the ability to influence and affect the feature sets that go into our products.
+I saw a potential area for abuse of our products and discussed with peers various solutions.
+My proposal was accepted and given the resources needed to implement it within our tight deadline.

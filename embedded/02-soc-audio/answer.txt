@@ -1,1 +1,10 @@
-Put your answer here.
+What do SND_SOC_DAIFMT_CBM_CFM, SND_SOC_DAIFMT_CBS_CFM, SND_SOC_DAIFMT_CBM_CFS and SND_SOC_DAIFMT_CBS_CFS mean?
+
+These are #defines representing the following;
+
+SND_SOC_DAIFMT_CBM_CFM - codec clk & FRM master
+SND_SOC_DAIFMT_CBS_CFM - codec clk slave & FRM master
+SND_SOC_DAIFMT_CBM_CFS - codec clk master & frame slave
+SND_SOC_DAIFMT_CBS_CFS - codec clk & FRM slave
+
+I wasn't previously familiar with these. Looks like they are used for the Digital Audio Interface API.

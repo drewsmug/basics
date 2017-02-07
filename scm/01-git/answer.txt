@@ -1,1 +1,36 @@
-Put your answer here.
+>> What do the following git commands do?
+
+>> git show
+
+"git show" shows information about a commit, tag, etc.
+A commit would show the diff and the commit message.
+
+>> git log
+
+"git log" will show the commit history and allow you to search it.
+
+>> git log --stat
+
+The "stat" option provides additional information about a commits files and number of lines changed.
+
+>> git format-patch -1
+
+"git format-patch" prepares commits for email. -<n> will prepare the most n recent commits.
+
+>> What are the hg equivalents of the above commands?
+
+I'm assuming, based on Google search, that hg represents Mercurial, which I have no experience with.
+
+>> What does red background text mean when running git show?
+
+I wouldn't know. I always run "git diff --check" to remove any trailing whitespace.
+
+>> What is the difference between git pull and git fetch?
+
+"git fetch" updates your branches tracking. "git pull" does a "git fetch" and "git merge".
+
+>> What sucks about git and why is hg better?
+
+>> What sucks about hg and why is git better?
+
+I would compare git to svn but it's been years since I've used svn and git is pretty much superior.

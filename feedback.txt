@@ -1,1 +1,10 @@
-Leave your feedback here.
+1) I'm not sure what your workflow plan is, but it would have been nicer to just edit the README files with the answers.
+
+2) I think the bottom layer directory should just be the file with the question that can be edited.
+   For code questions but the question/task in comments in the header maybe.
+    i.e. basic
+            -> embedded
+                -> shift_questions.txt
+                -> soc_audio_questions.txt
+
+3) I have 2 more I haven't done I believe that I will probably finish before meeting you on Thursday.

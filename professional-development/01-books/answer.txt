@@ -1,1 +1,29 @@
-Put your answer here.
+>> What is the last technical book you bought and why did you buy it?
+
+I recently bought the famous "Introduction to Algorithms" book by the 4 authors collectively known as CLRS.
+I bought it to gain a much deeper understanding of the course matertial and to
+help me on both the practice problems I do online and any potential future interviews.
+
+====
+
+>> What are your go to publishers when you are looking for technical book?
+
+I generally search hard to find which book people consider to be the "Bible" in that area.
+I don't focus much on the publisher but I have plenty of O'Reilly books as those have been proven to have a good standard.
+
+====
+
+>>If you could learn a new programming language what would it be?
+
+If I had to choose a brand new language I guess it would be C# to allow me to do iOS app development for fun.
+In reality I am looking to do a refresher on Python or C++ (or maybe Java) to get more comfortable with an OOP language.
+
+====
+
+>> When is the last time you bought a programming language book that was not for your job
+>> (you did it just for fun)?
+
+I buy a lot of tech books that, though not specifically for work, are usually not entirely unrelated.
+In the same Amazon order I purchased the following two books for education and entertainment purposes;
+1) Programming Android
+2) Linux Device Drivers

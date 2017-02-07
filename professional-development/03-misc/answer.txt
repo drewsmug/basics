@@ -1,1 +1,39 @@
-Put your answer here.
+>> What do you do to keep your skills uptodate?
+
+I like to do puzzles from sites like "projecteuler.net", "codechef.com", and "topcoder.com".
+I regularly have tech projects I like to work on.
+    - Made my own remote controlled thermastat.
+    - Made a event finding website to learn Python and Amazon's Web Services.
+Current projects on my todo list are
+    - Write a C compiler
+    - Write Android App for my task manager idea
+
+====
+
+What job to you want to be doing in 1, 2, 5 and 10 years?
+
+1 year: Vivint
+2 years: Vivint
+5 years: Vivint
+10 years: Vivint
+
+:)
+
+The short answer is I want to keep doing as much development as I can for at least the next 5 years.
+Specifically I am looking to switch into a new and exciting area of technology, where I can
+have the opportunity to watch and be a part of it's long-term growth (i.e. home automation).
+
+In 10 years I know I'll still want to be technical. I like solving and designing
+big problems. I am interested in helping solve industry level problems in the home automation space
+(and in whatever space develops and evolves out of it). I'd like to use the previous years
+to help mold myself into an industry expert that can help drive and shape the future.
+
+====
+
+>> If you didn't need to work for a living what would you do with your time?
+
+I’ve always fantasized about being a successful entrepreneur. I’d probably keep trying to start a
+business until I was either successful or I reached a point where I needed to work for a living again.
+I’ve learned it’s been good for my psyche when I am building, creating and progressing towards some goal.
+
+My other dream has always been to buy a sailboat and sail around the world.

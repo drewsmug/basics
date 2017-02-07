@@ -1,1 +1,9 @@
-Put your answer here.
+>> What websites do you visit regularly to help you keep up to date on topics related to embedded linux or other related topics?
+
+www.reddit.com/r/programming
+www.reddit.com/r/linux
+and other reddit subthreads.
+
+I also like to read "slashdot.org"
+
+I use to follow the Linux Kernel mailing list at lkml.org but not as much now that I have been working more on an RTOS.

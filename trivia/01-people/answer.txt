@@ -1,1 +1,35 @@
-Put your answer here.
+What project, language, whatever is associated with each of the following?
+
+ * Donald Knuth
+ * Guido Rossum
+ * James Gosling
+ * Larry Wall
+ * Linus Torvalds
+ * Richard Stallman
+
+>> Donald Knuth
+    Scholar and prolific writer on computer science and mathamatics
+>> Guido Rossum
+    Python
+>> James Gosling
+    Java
+>> Larry Wall
+    Perl
+>> Linus Torvalds
+    Linux, Git
+>> Richard Stallman
+    GNU
+
+>> Who would you add to this list?
+
+Dennis Ritchie - C
+Ken Thompson - Unix
+Grace Hopper - Compiler
+Alan Turing - Turing Machine
+Tim Berners-Lee - http://www
+Bjarne Stroustrup - C++
+
+How did I sort the above list from inside vim starting with a visual selection?
+
+shift V
+:sort

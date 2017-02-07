@@ -1,1 +1,35 @@
-Put your answer here.
+>> Explain how spi, i2c and serial are all at their core shift registers.
+
+They use 1 wire to communicte (You could say 2 for spi and uart, tx and rx),
+and a clock (except uart which is asynchronous), which is driven high or low
+to represent one bit at a time.
+
+>> How are these three lowlevel bit based protocols the same and different?
+
+I2C
+- Only takes 2 wires
+- Can have multiple masters
+
+
+SPI
+- Generally only 1 master
+- More pins (at least 4) whch limits # of devices
+- Faster than i2c
+
+Serial UART
+- Communicated is peer to peer (limited to 2 devices)
+- Protocol can have some simple error checking (parity bit)
+- Devices must use same baudrate
+
+>> Why does spi use chip selects but i2c and serial do not?
+
+- serial is peer to peer so it doesn't need to identify who it is talking to.
+- i2c uses the address of the slaves to address who the master is talking to.
+- spi uses the CS signial to signal which device the master is talking to.
+
+>> How are different devices on the same i2c bus differentiated?
+
+- Using either a 7 bit or 10 bit address.
+
+>> How many bytes must be shifted out of a spi master to get one byte back from
+>> a spi slave.

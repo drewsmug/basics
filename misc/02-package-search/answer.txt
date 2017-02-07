@@ -1,1 +1,13 @@
-Put your answer here.
+>> You are using Ubuntu or other Debian based distro,
+>> in the course of cleaning up an ugly C source file you vaguely remember
+>> a utility called unifdef.
+>> How do you search to see if an unifdef package exists?
+>> Once you find the package name how do you install it?
+
+I would start by typing the following command in a terminal;
+sudo apt-cache search <package>
+
+If I had no luck there I would search "http://packages.ubuntu.com/" (because I use Ubuntu).
+
+After finding it I would then use the following command;
+sudo apt-get install <package>

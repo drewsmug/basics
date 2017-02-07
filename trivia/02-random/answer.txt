@@ -1,1 +1,28 @@
-Put your answer here.
+>> What does the bfd in libbfd stand for? What is its origin?
+
+BFD: Binary File Descriptor
+
+David Henkel-Wallace suggested the library, but Richard Stallman said it would be hard.
+David said it wouldn't be a "Big F'ing Deal". Today's name was created later for the acronym.
+
+>> What package contains as and ld?
+
+$ dpkg -S `which as`
+binutils: /usr/bin/as
+
+$ dpkg -S `which ld`
+binutils: /usr/bin/ld
+
+>> What do armel and armhf mean?
+
+armel supports soft float - ARMv4
+armhf supports hard float - ARMv7
+
+>> What is the Linaro project?
+
+A non-profit org working on open-source software for ARM.
+
+>> Why hasn't python3 taken over?
+
+Without looking anything up I would guess legacy code.
+Heard a manager refer to it as "the deathgrip of leverage."

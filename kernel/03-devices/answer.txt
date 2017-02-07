@@ -1,1 +1,3 @@
-Put your answer here.
+>> What does /proc/devices contain.
+
+A list of devices seperating by character and block devices.
